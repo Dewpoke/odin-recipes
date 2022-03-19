@@ -1,5 +1,37 @@
 /* style.css */
 
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*color: green;
+    background-color: black;*/
+}
+
 h1{
     color: grey;
+}
+
+ul li, ul{
+    background-color: grey;
+    color: white;
+}
+
+ol li, ol{
+    font-family: cursive, 'Times New Roman', Times, serif;
+    color: red;
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+.recipeLinks li, .recipeLinks{
+    background-color: white;
+    color: black;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
+
+h6{
+    color: blue;
 }
